@@ -1,0 +1,9 @@
+Auburn University
+Ugrad; 1234567890; Jones, Sam; 16; 1
+Masters; 1234567888; Andrews, Andy; 12; 1; 0.25
+hD;1234567893;Hanks, Thomas;12;3;0.50;0.10
+Ograd;1234567886;Tuttles, Terri;12;1;0.25
+Masters;1234567891;Smith, Pat;12;1;0.25
+PhD;1234567892;Williams, Jo;12;3;0.50;0.10
+Ugrad;1234567889;Jackson, Jackie;16;2
+PhD;1234567887;Cassidy, Cathy;6;2;0.25;0.10
